@@ -1,0 +1,20 @@
+Diccionario del Dataset
+
+Id: Indica si la aeronave fue identificada o no
+Fecha: Fecha en la que ocurrio el accidente.
+Hora Declarada: La hora en que se declaro el accidente o incidente
+Ruta': La ruta de vuelo planificada o real de la aeronave
+Operador: El noembre del operador o compania duena de la areonave
+Numero_Vuelo: El numero de vuelo asignado por el operador
+Trayecto: Rura de vuelo como texto
+Modelo_Avion: El modelo y tipo de aeonave involucara en el accidente
+Registro: El numero de Registro unico de aeronave
+Numero Linea: Construccion y numero de linea de la aeronave
+Total a Bordo: El numero total de personas a bordo, incluyendo pasajeros y tripulantes
+Pasajeros a Bordo: El numero de pasajeros a bordo
+Tripulantes a Bordo: El numero de miembros de la tripulacion a bordo
+Total Fallecidos: Numero total de personas que fallecieron en el accidente
+Pasajeros Fallecidos: El numero de pasajeros que fallecieron en el accidente
+Tripulacion Fallecida: El numero de miembros de la tripulacion que fallecieron en el accidente
+Fallecidas en Tierra: El numero de personas en tierra que resultaron fallecidas debido al accidente
+Resumen Incidente: Una breve descripcion del accidente
