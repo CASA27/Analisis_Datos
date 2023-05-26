@@ -28,7 +28,7 @@ Realizar un análisis de los datos entregados por la OACI de los accidentes aér
 El proyecto se divide en diferentes etapas y se generaron los siguientes entregables:
 
  1. **EDA**: este archivo de Analisis Exploratorio de los Datos se subira al repositorio de Github, CASA27: notebook (.ipynb), archivo que contienen  análisis descriptivos de los datos, donde se enocontraran gráficas univariadas y bivariadas para identificar patrones y tendencias. 
-[EDA.ipynb]( https://github.com/CASA27/Analisis_Datos/blob/master/eda.ipynb)*
+[eda.ipynb]( https://github.com/CASA27/Analisis_Datos/blob/master/eda.ipynb)*
 
 2. **Dashboard Interactivo**: archivo .pbix que tendra un dashboard interactivo, para permitir explorar y visualizar los datos de manera dinámica, indicadores, graficas y KPIs (Indicadores Clave de Desempeño) que nuestro cliente ha solicitado, OACI. 
 [da.pbix](https://github.com/CASA27/Analisis_Datos/blob/master/da.pbix)*
@@ -43,7 +43,8 @@ El proyecto se divide en diferentes etapas y se generaron los siguientes entrega
 
 `Archivos y Carpetas`
 
-+ ETL/: Contiene los scripts y archivos relacionados con el proceso de Extracción, Transformación y Carga de los datos.
++ ETL/: Contiene los scripts y archivos relacionados con el proceso de Extracción, Transformación y Carga de los datos.  
+[etl.ipynb](https://github.com/CASA27/Analisis_Datos/blob/master/etl.ipynb)*
 
 + EDA/: Contiene el notebook (.ipynb) con el análisis exploratorio de datos.
 
