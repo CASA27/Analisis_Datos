@@ -27,16 +27,16 @@ Realizar un análisis de los datos entregados por la OACI de los accidentes aér
 
 El proyecto se divide en diferentes etapas y se generaron los siguientes entregables:
 
- 1. **EDA**: este archivo de Analisis Exploratorio de los Datos se subira al repositorio de Github, CASA27: notebook (.ipynb), archivo que contienen  análisis descriptivos de los datos, donde se enocontraran gráficas univariadas y bivariadas para identificar patrones y tendencias.
+ 1. **EDA**: este archivo de Analisis Exploratorio de los Datos se subira al repositorio de Github, CASA27: notebook (.ipynb), archivo que contienen  análisis descriptivos de los datos, donde se enocontraran gráficas univariadas y bivariadas para identificar patrones y tendencias. 
+[EDA.ipynb]( https://github.com/CASA27/Analisis_Datos/blob/master/eda.ipynb)*
 
-2. **Dashboard Interactivo**: archivo .pbix que tendra un dashboard interactivo, para permitir explorar y visualizar los datos de manera dinámica, indicadores, graficas y KPIs (Indicadores Clave de Desempeño) que nuestro cliente ha solicitado, OACI.
+2. **Dashboard Interactivo**: archivo .pbix que tendra un dashboard interactivo, para permitir explorar y visualizar los datos de manera dinámica, indicadores, graficas y KPIs (Indicadores Clave de Desempeño) que nuestro cliente ha solicitado, OACI. 
+[da.pbix](https://github.com/CASA27/Analisis_Datos/blob/master/da.pbix)*
 
 3. **KPI**: se crearon 3 KPIs mas el solicitado por el cliente, estos KPIs se deben explicar en una reunion con los interesados del proyecto, miembros de la OACI.
 
 4. **Repositorio de Github**: en mi repositorio CASA27 se alojara todo el desarrollo del proyecto para visualizacion del cliente.
 
-##### *Nota: La extracción de datos así como las respectivas transformaciones pueden verse desarrolladas en el archivo [EDA.ipynb]( https://github.com/CASA27/MLOPs/blob/main/ETL.ipynb)*
-  
 
   <hr> 
 
@@ -54,15 +54,15 @@ El proyecto se divide en diferentes etapas y se generaron los siguientes entrega
 + Data/: Carpeta que contiene la base de datos histórica de accidentes aéreos.
 
 
-##### *Nota: Estos archivos y carpetas se encuentra alojados la carpeta [Data-Analytics](https://github.com/CASA27/MLOPs/blob/main/desarrollo_de_funciones.ipynb)*
+##### *Nota: Estos archivos y carpetas se encuentra alojados la carpeta [Analisis_Datos](https://github.com/CASA27/Analisis_Datos)*
 
 <hr>
 
 
 #### Tecnologías utilizadas:
-- Visual studio code
-- Python
-- Bibliotecas de Python utilizadas (Pandas, matplotlib, Seaborn )
+- Visual studio code (Editor de código fuente desarrollado por Microsoft, herramienta de desarrollo)
+- Python (Lenguaje de programacion utilizado para los procesos de ETL y EDA)
+- Bibliotecas de Python utilizadas (Pandas, matplotlib y Seaborn )
 - Power BI Desktop (Para visualización y creación del dashboard interactivo).
 
 <hr>
